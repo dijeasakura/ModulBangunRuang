@@ -1,29 +1,30 @@
-﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="43"><page Index="1"><![CDATA[MODUL
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="60"><page Index="1"><![CDATA[MODUL
 
 
 
 
+                    MATEMATIKA
+                    MATEMATIKA
 
-                       MATEMATIKA
-                        MATEMATIKA
 
 
 
 
+                            BANGUN
 
 
 
-                                  BANGUN
 
 
 
+                                 RUANG
 
 
 
 
-                                       RUANG
 
 
+                   SISI DATAR
 
 
 
@@ -72,67 +73,223 @@
 
 
 
+                                                                          Diva Dwi Nathania]]></page><page Index="2"><![CDATA[Kata Pengantar
 
 
 
 
 
+                                        Puji syukur kehadirat Tuhan Yang Maha Esa, akhirnya
+                                    penulis  dapat  menyelesaikan  sebuah  buku  yang  berjudul  “
 
+                                    Modul Matematika Bangun Ruang Sisi Datar” untuk kelas
+                                    VII SMP/MTs sesuai dengan kurikulum merdeka.
+                                         Penulis menyadari bahwa tanpa adanya dorongan dan
+                                    bantuan  dari  berbagai  pihak,  penyelesaian  buku  ini  tidak
+                                    dapat  terwujud.  Oleh  karena  itu,  dengan  ketulusan  dan
+                                    kerendahan  hati,  penulis  mengucapkan  terima  kasih    dan
+                                    penghargaan setinggi - tingginya kepada :
+                                        Universitas  Kristen  Indonesia  khususnya  Fakultas
+                                        Keguruan dan Ilmu Pendidikan Prodi Matematika
+                                        Dosen  Pembimbing  Ibu  Santri  Chintia  Purba,  S.Pd.,
+                                        M.Sc.  dan  Bapak  Jitu  Halomoan  L.  Toruan,  S.Pd.,
+                                        M.Pd  serta  Bapak/Ibu  dosen  yang  tidak  bisa  saya
+                                        sebutkan satu per satu
+                                       Untuk mempermudah memahami suatu materi diperlukan
 
+                                    beberapa  media  belajar.  Agar  peserta  didik  dapat  belajar
+                                    dari sumber belajar yang tepat dan efisien maka diperlukan
+                                    buku  yang  dapat  mempermudah  peserta  didik  dalam
+                                    memahami  dan  menerapkan  ilmu  yang  didapat  dalam
+                                    kegiatan  sehari  -  hari  saat  berada  di  sekolah  maupun  di
+                                    rumah.
+                                        Buku  ini  disusun  untuk  membantu  peserta  didik  dengan
+                                    cara  yang  efektif  mengunakan  penerapan  Realistic
+                                    Mathematics       Education     dengan      harapan      dapat
+                                    meningkatkan  kemampuan  pemecahan  masalah  pada
+                                    peserta didik.
+                                       Buku ini terdiri dari materi pembelajaran, aktivitas siswa,
+                                    Augmented Reality untuk mendukung materi pembelajaran,
+                                    video pembelajaran, audio, quiz beserta kunci jawabannya.
+                                        Walaupun begitu, “tak ada gading yang tak retak”. Oleh
+                                    karena itu, penulis menerima kritik dan saran yang bersifat
+                                    konstruktif  dari  seluruh  pengguna  buku  ini  sehingga  buku
+                                    ini  dapat  menjadi  lebih  sempurna  pada  masa  -  masa
+
+                                    mendatang.
+    i                                                                                Penulis
+                                                                                     Mei 2024]]></page><page Index="3"><![CDATA[Daftar Isi
+
+   Kata Pengantar ...........................................................i
+
+   Daftar Isi ....................................................................ii
+   Daftar Gambar ...........................................................iii
+   Daftar Tabel ...............................................................vi
+   Kompetensi .................................................................vii
+   Petunjuk Penggunaan Modul ......................................viii
+   Peta Konsep ................................................................ix
+   Pendahuluan ............................................................... x
+   Catatan Kilas Balik .................................................. ..xi
+   Mengidentifikasi Bangun Ruang ..................................2
+   Game Tarik Garis .......................................................3
+   Macam - Macam Bangun Ruang .................................4
+   Penerapan Bangun ruang dalam Kehidupan .................5
+   Kubus ..........................................................................6
+       Ciri - Ciri ..............................................................6
+
+       Jaring - Jaring.......................................................8
+       Luas Permukaan ..................................................10
+       Volume .................................................................13
+   Balok ..........................................................................16
+       Ciri - Ciri ..............................................................16
+       Jaring - Jaring.......................................................19
+       Luas Permukaan ...................................................22
+       Volume .................................................................24
+   Prisma Segi - N ...........................................................25
+       Ciri - Ciri ..............................................................25
+       Jaring - Jaring.......................................................27
+       Luas Permukaan ...................................................31
+       Volume .................................................................34
+   Limas Segi - N ............................................................35
+       Ciri - Ciri ..............................................................35
+       Jaring - Jaring.......................................................37
+       Luas Permukaan ...................................................40
+       Volume .................................................................42
+
+   Video Animasi .............................................................43
+   Audio ..........................................................................43
+   Game ..........................................................................44
+   Quiz ............................................................................44
+   Rangkuman .................................................................45
+   Latihan Soal ...............................................................46
+   Daftar Pustaka ............................................................xii               ii]]></page><page Index="4"><![CDATA[Daftar Gambar
+
+
+
+
+
+                                      Gambar 1 Palace Of Wetminster .......................................1
+                                      Gambar 2 Ruang Tamu ....................................................2
+                                      Gambar 3 Mainan Kubus .................................................4
+                                      Gambar 4 Mainan Balok ...................................................4
+                                      Gambar 5 Pyramid ............................................................4
+                                      Gambar 6 Atap Rumah .....................................................4
+                                      Gambar 7 Kubus ABCD.EFGH .......................................6
+                                      Gambar 8 Diagonal Sisi ....................................................6
+                                      Gambar 9 Diagonal Ruang ...............................................6
+                                      Gambar 10 Bidang Diagonal .............................................6
+                                      Gambar 11 Kubus PQRS.TUVW .....................................7
+                                      Gambar 12  Kubus ............................................................8
+                                      Gambar 13 Rubik ..............................................................8
+                                      Gambar 14 Jaring - Jaring Kubus .....................................9
+                                      Gambar 15 Persegi ...........................................................10
+
+                                      Gambar 16 Keliling Persegi .............................................10
+                                      Gambar 17 Jaring - Jaring Kubus  ...................................11
+                                      Gambar 18 Hadiah ..........................................................11
+                                      Gambar 19 Jaring - Jaring Kubus (1) ..............................12
+                                      Gambar 20 Kubus (1) ......................................................12
+                                      Gambar 21 Jaring - Jaring Kubus (4) ..............................12
+                                      Gambar 22 Persegi (1) .....................................................13
+                                      Gambar 23 Persegi (2) .....................................................13
+                                      Gambar 24  .....................................................................14
+                                      Gambar 25  .....................................................................14
+                                      Gambar 26 Magic Cube ..................................................15
+                                      Gambar 27 Balok ABCD.EFGH ....................................16
+                                      Gambar 28 Diagonal Sisi (1) ...........................................17
+                                      Gambar 29 Diagonal Ruang (1) ......................................17
 
+                                      Gambar 30 Bidang Diagonal ...........................................17
+                                      Gambar 31 Balok KLMN.OPQR ...................................18
+                                      Gambar 32 Balok ABCD.EFGH (1) ...............................19
+                                      Gambar 33 Jaring - Jaring Balok .....................................20
+                                      Gambar 34 Jaring - Jaring Balok (1) ................................20
+                                      Gambar 35 Jaring - Jaring Balok (2) ................................21
+                                      Gambar 36 Kotak Sepatu ................................................21
+   iii                                Gambar 37 Balok ABCD.EFGH ....................................22]]></page><page Index="5"><![CDATA[Gambar  38 Jaring - Jaring Balok (3) ...............................22
+    Gambar  39 Jaring - Jaring Balok (4) ...............................22
+    Gambar  40 Susunan Balok .............................................23
 
+    Gambar 41 Balok ............................................................24
+    Gambar 42 Prisma Segi - 6 ..............................................25
+    Gambar 43 Prisma Segi - 8 ..............................................25
+    Gambar 44 Prisma Segi - 3 ..............................................25
+    Gambar 45 Prisma Segi - 4 ..............................................25
+    Gambar 46 Prisma Trapesium .........................................25
+    Gambar 47 Prisma ABC.DEF .........................................26
+    Gambar 48 Prisma ABCD.EFGH ...................................26
+    Gambar 49 Prisma Segitiga .............................................27
+    Gambar 50 Prisma Persegi Panjang .................................27
+    Gambar  51 Jaring - Jaring Prisma ..................................28
+    Gambar 52 Jaring - Jaring Prisma (1) ..............................28
+    Gambar 53 Jaring - Jaring Prisma (2) ..............................28
+    Gambar 54 Jaring - Jaring Prisma (3) ..............................28
 
+    Gambar 55 Bangunan 1 ...................................................29
+    Gambar 56 Bangunan 2 ...................................................29
+    Gambar 57 Bangunan 3 ...................................................29
+    Gambar 58 Bangunan 4 ...................................................29
+    Gambar 59 Prisma ABC.DEF .........................................30
+    Gambar 60 Prisma ABC.DEF (1) ....................................31
+    Gambar 61 Jaring - Jaring Prisma (4) ..............................31
+    Gambar 62 Jaring - Jaring Prisma (5) ..............................32
+    Gambar 63 Kasus 1 .........................................................33
+    Gambar 64 Macam - Macam Prisma ...............................33
+    Gambar 65 Limas Segi - 4 ................................................35
+    Gambar 66 Limas Segi - 3 ................................................35
+    Gambar 67 Limas Segi - 5 ................................................35
+    Gambar 68 Limas Segi - 6 ................................................35
+    Gambar 69 Limas D.ABC ...............................................36
+    Gambar 70 Limas E.ABCD .............................................36
+    Gambar 71 Limas ............................................................37
+    Gambar 72 Limas Segitiga ...............................................37
 
+    Gambar 73 Jaring - Jaring Limas  ...................................37
+    Gambar 74 Jaring - Jaring Limas (1) ...............................37
+    Gambar 75 Jaring - Jaring Limas (2) ...............................38
+    Gambar 76 Jaring - Jaring Limas (3) ...............................38
+    Gambar 77 Limas E.ABCD .............................................40
+                                                                                               iv]]></page><page Index="6"><![CDATA[Gambar  78 Jaring - Jaring Limas (4) ..............................40
+                                       Gambar  79 Kasus 2 ........................................................41
+                                       Gambar  80 Gabungan Prisma dan Limas .......................42
+                                       Gambar 81 Papan Nama .................................................46
 
 
 
 
 
 
-                                                                                        Diva Dwi Nathania]]></page><page Index="2"><![CDATA[Kata Pengantar
 
 
 
 
 
 
-                                                  Untuk mempermudah memahami
 
 
-                                              suatu                   materi                    diperlukan
 
 
 
-                                              beberapa  media  belajar.  Agar
 
 
 
-                                              peserta didik dapat belajar dari
 
 
-                                              sumber  belajar  yang  tepat  dan
 
 
-                                              efisien  maka  diperlukan  buku
 
 
-                                              yang               dapat                  mempermudah
 
 
 
-                                              peserta  didik  dalam  memahami
 
-                                              dan           menerapkan                      ilmu           yang
 
 
 
-                                              didapat dalam kegiatan sehari -
 
 
 
-                                              hari  saat  berada  di  sekolah
 
-                                              maupun di rumah.
 
 
 
@@ -141,30 +298,22 @@
 
 
 
-                                                Buku ini disusun untuk membantu
 
 
-                                              peserta  didik  dengan  cara  yang
 
 
-                                              efektif  mengunakan  penerapan
 
 
 
-                                              Realistic Mathematics Education
 
-                                              dengan                     harapan                        dapat
 
 
-                                              meningkatkan                                   kemampuan
 
 
 
-                                              pemecahan                        masalah                     pada
 
 
 
-                                              peserta didik.]]></page><page Index="3"><![CDATA[Pendahuluan
 
 
 
@@ -174,32 +323,28 @@
 
 
 
-        Geometri yang mana merupakan
 
 
-      bagian  dari  ilmu  Matematika  ini
 
 
-      secara  keseluruhan  membahas
+    v]]></page><page Index="7"><![CDATA[Daftar Tabel
 
 
 
-      tentang  bagaimana  bentuk  dan
 
 
-      ukuran  dari  suatu  objek  dengan
+   Tabel  1 Laporan Jaring - Jaring Balok .....................19
+   Tabel 2 Perbandingan Luas Permukaan ....................31
+   Tabel 3 Laporan Jaring - Jaring Limas ......................37
 
+   Tabel 4 Rangkuman ..................................................44
 
-      keteraturan  tertentu.  Pada
 
 
-      dasarnya,  bangun  ruang  ini
 
 
 
-      adalah  sebuah  bangun  3  dimensi
 
-      yang memiliki volume.
 
 
 
@@ -208,36 +353,26 @@
 
 
 
-          Modul ini berisi mengenai jaring
 
 
-      -  jaring,  ciri  -  ciri,  luas
 
 
-      permukaan,  dan  volume  bangun
 
 
 
-      ruang  yang  dilengkapi  dengan
 
-      Augmented                        Reality,                   Video
 
 
-      Animasi,                 Audio,              dan           Game.
 
 
 
 
-      Menggunakan  contoh  -  contoh
 
 
-      dalam  kehidupan  sehari  -  hari
 
-      agar              peserta                  didik           mudah
 
 
 
-      memahami.]]></page><page Index="4"><![CDATA[Indikator
 
 
 
@@ -245,66 +380,66 @@
 
 
 
-         Keberhasilan Modul
 
 
 
 
 
 
-    Tujuan  dari  penggunaan  modul  ini  untuk
 
 
-    meningkatkan  kemampuan  pemecahan  masalah
 
 
-    pada  peserta  didik.  Untuk  mengetahui
 
 
 
-    ketercapaian dari tujuan pembelajaran maka
 
 
-    adanya indikator sebagai berikut :
 
 
 
-             Peserta  didik  mampu  memahami  masalah
 
 
-             dengan  mengidentifikasi  unsur  -  unsur
 
 
-             yang diketahui, ditanyakan dan kecukupan
 
+                                                                                                vi]]></page><page Index="8"><![CDATA[Kompetensi
 
-             unsur yang diperlukan.
 
 
 
-             Peserta  didik  mampu  menyusun  rencana
 
 
-             pemecahan masalah
+                                      Capaian Pembelajaran :
+                                      Di akhir fase D peserta didik dapat membuat jaring-jaring
+                                      bangun  ruang  (kubus,  balok,  prisma  dan  limas)  dan
 
-             Peserta                  didik           mampu                melaksanakan
+                                      membuat bangun ruang tersebut dari jaring-jaringnya.
+                                      Di akhir fase D peserta didik dapat menjelaskan cara untuk
+                                      menentukan  luas  permukaan  dan  volume  bangun  ruang
+                                      (kubus,  balok,  prisma  dan  limas)  dan  menyelesaikan
+                                      masalah yang terkait.
 
 
 
+                                    Tujuan Pembelajaran :
 
-             rencana pemecahan masalah
+                                          Melalui  aktivitas  peserta  didik  dapat  menemukan
+                                          jaring - jaring, rumus luas permukaan dan volume
+                                          Melalui  materi  pembelajaran  peserta  didik  dapat
+                                          memahami konsep bangun ruang
+                                          Melalui latihan soal peserta didik dapat menyelesaikan
+                                          masalah  yang  berkaitan  dengan  luas  permukaan  dan
+                                          volume bangun ruang sisi datar
 
 
-             Peserta  didik  mampu  memeriksa  kembali
 
 
-             hasil yang diperoleh]]></page><page Index="5"><![CDATA[Petunjuk
 
 
 
 
 
-                                           Penggunaan Modul
 
 
 
@@ -314,17 +449,14 @@
 
 
 
-                                          Bacalah materi dengan seksama
 
 
 
 
 
 
-                                                                Gambar berupa AR klik
 
 
-                                                                2x untuk menggerakan
 
 
 
@@ -336,40 +468,48 @@
 
 
 
-                                                                Ketuk           untuk
 
+   vii]]></page><page Index="9"><![CDATA[Petunjuk
 
-                                                                 memulai video
 
 
 
+     Penggunaan Modul
 
 
 
 
 
+      1. Bacalah dan pahami tujuan pembelajaran
+      2. Bacalah materi dengan seksama
+      3. Kerjakan aktivitas yang disediakan dengan benar
+      4. Tontonlah  video  agar  lebih  memahami  konsep  luas  permukaan
+        dan volume
+      5. Dengarkanlah audio agar cepat menghafal luas bangun datar
+      6. Mainkanlah game edukasi agar belajar lebih seru dan lebih paham
+      7. Kerjakan quiz untuk membantu pemahaman
+      8. Bukalah kunci jawaban sertelah mengerjakan quiz
 
 
 
-                                                                Ketuk           untuk
 
 
-                                                                 mendengarkan audio
 
+        Keterangan Fitur :
 
 
 
+                       Gambar berupa AR klik 2x untuk menggerakan
 
 
 
 
 
 
-                                                                Quiz              yang               dapat
 
 
+                       Ketuk          untuk memulai video
 
-                                                                dicoba kerjakan]]></page><page Index="6"><![CDATA[Peta Konsep
 
 
 
@@ -378,65 +518,118 @@
 
 
 
+                        Ketuk           untuk mendengarkan audio
 
 
 
 
 
-                                                     Unsur -
 
 
 
 
+                         Quiz yang dapat dicoba kerjakan
 
-                                                        Unsur                                       Kubus
 
 
 
+                                                                                              viii]]></page><page Index="10"><![CDATA[Peta Konsep
 
 
 
 
 
+
+
+                                                         Unsur - Unsur
+
+
+                                                         Jaring - Jaring
+                                      Kubus
+
+                                                         Luas Permukaan
+
+
+                                                            Volume
+                                                          Unsur - Unsur
+
+
+                                                         Jaring - Jaring
+                                       Balok
+                                                         Luas Permukaan
        Bangun
+       Ruang                                                 Volume
+      Sisi Datar                                          Unsur - Unsur
 
 
 
+                                                         Jaring - Jaring
+                                     Prisma
 
-        Ruang                                            Luas                                       Balok
+                                                         Luas Permukaan
 
 
+                                                             Volume
+                                                          Unsur - Unsur
 
 
+                                                         Jaring - Jaring
+                                      Limas
+                                                         Luas Permukaan
 
-   Sisi Datar                                    Permukaan
 
+                                                             Volume
 
 
 
 
-                                                                                                  Prisma
 
 
 
 
 
 
+                                                                                             ix]]></page><page Index="11"><![CDATA[Pendahuluan
 
 
 
 
 
+         Geometri  yang  mana  merupakan  bagian  dari  ilmu
 
+     Matematika  ini  secara  keseluruhan  membahas  tentang
+     bagaimana  bentuk  dan  ukuran  dari  suatu  objek  dengan
+     keteraturan tertentu. Geometri mempelajari bangun datar
+     dan  bangun  ruang.  Bangun  datar  adalah  bidang  datar
+     yang  hanya  memiliki  panjang  dan  lebar.  Bangun  datar
+     terdiri dari persegi, persegi panjang, segitiga, jajar genjang,
+     trapesium, belah ketupat, layang - layang dan lingkaran.
 
 
-                                                                                                    Limas
-                                                     Volume]]></page><page Index="7"><![CDATA[Materi Pembelajaran
+     Sedangkan,  bangun  ruang  adalah  sebuah  bangun  3
+     dimensi  yang  memiliki  volume.  Sehingga  bangun  ruang
+     memiliki panjang, lebar, dan tinggi. Bangun ruang sendiri
+     dibagi  menjadi  dua  yaitu  bangun  ruang  sisi  datar  dan
+     bangun  ruang  sisi  lengkung.  Bangun  ruang  sisi  datar
+     terdiri  dari  kubus,  balok,  prisma,  dan  limas.  Sedangkan
 
+     bangun  ruang  sisi  lengkung  terdiri  dari  tabung,  kerucut,
+     dan bola.
 
 
+          Untuk mempelajari modul ini kita harus paham terlebih
+     dahulu  materi  bangun  datar  karena  akan  sangat
+     dibutuhkan untuk memahami konsep luas permukaan dan
+     volume.
 
 
+         Pada Modul ini akan membahas bangun ruang sisi datar
+     yang terdiri dari  jaring - jaring, ciri - ciri, luas permukaan,
+     dan  volume  bangun  ruang  yang  dilengkapi  dengan
+     Augmented  Reality,  Video  Animasi,  Audio,  dan  Game.
+     Menggunakan  contoh  -  contoh  dan  soal  -  soal  yang
+     menuntun peserta didik untuk meningkatkan kemampuan
+     pemecahan masalah dalam kehidupan sehari - hari.
 
 
 
@@ -449,6 +642,7 @@
 
 
 
+                                                                                                x]]></page><page Index="12"><![CDATA[Catatan Kilas Balik !
 
 
 
@@ -457,26 +651,38 @@
 
 
 
+              Rumus Luas Bangun Datar :
 
 
 
+               L. Persegi Panjang = p x l
 
 
+               L. Persegi                = s x s
 
 
+               L. Jajar Genjang    = a x t
 
+               L. Segitiga              = a x t
 
 
+                                                      2
 
 
+               L. Belah Ketupat   = D1 x D2
 
+                                                        2
 
 
+               L. Layang - Layang = D1 x D2
 
 
+                                                           2
 
+               L. Trapesium           = S1 + S2  x t
 
 
+                                                          2
 
 
 
@@ -485,16 +691,12 @@
 
 
 
-      Tahukah Anda bangunan diatas ? Bangunan diatas
 
 
-        bernama Palace of Wetminster yang berlokasi di
 
 
 
-      Inggris. Bangunan diatas adalah salah satu contoh
 
-      bangun ruang. Bangun ruang apakah bangun diatas]]></page><page Index="8"><![CDATA[Mengidentifikasi Bangun Ruang
 
 
 
@@ -503,6 +705,7 @@
 
 
 
+                                                                                             xi]]></page><page Index="13"><![CDATA[Materi Pembelajaran
 
 
 
@@ -531,25 +734,38 @@
 
 
 
-         Sebutkan ada bangun ruang apa saja di gambar
 
 
 
-                                                 tersebut !]]></page><page Index="9"><![CDATA[Game Tarik Garis
 
 
 
 
 
+                                        Gambar 1 Palace Of Wetminster
+    Bangun  ruang  merupakan  konsep  geometris  yang  kita  temui  di  setiap  aspek  kehidupan
+    sehari-hari.  Bahkan  sejak  kecil  kita  sudah  diajarkan  bermain  menyusun  balok  menjadi
+    suatu bentuk - bentuk seperti bangunan, jembatan, mobil, dan lain - lain.
 
 
+    Sekarang, apa yang kamu pikirkan tentang bangunan diatas ?
+    Bangunan diatas adalah bangunan yang bernama Palace of Wetminster yang berlokasi di
+    Inggris.
 
-                                                                                             Prisma
 
+    Apakah bangunan diatas merupakan salah satu contoh dari bangun ruang ?
 
+    Bangunan diatas merupakan salah satu contoh dari bangun ruang.
+    Sekarang, Bangun ruang apakah bangunan diatas
+    Banyak  sekali  penerapan  bangun  ruang  menjadi  bangunan  -  bangunan  yang  keren  dan
+    iconic.  Contohnya  di  Jakarta  kita  dapat  menemukan  stadion  Gelora  Bung  Karno  yang
+    berbentuk seperti tabung. Ada juga bangunan suci Ka’bah di Arab Saudi yang berbentuk
+    kubus  dan  Menara  Pisa  di  Italia  berbentuk  tabung.  Dapatkah  kamu  menemukan
+    bangunan - bangunan lain yang mirip dengan suatu bentuk bangun ruang ?
 
 
 
+                                                                                              1]]></page><page Index="14"><![CDATA[Mengidentifikasi Bangun Ruang
 
 
 
@@ -567,7 +783,6 @@
 
 
 
-                                                                                              Balok
 
 
 
@@ -583,7 +798,6 @@
 
 
 
-                                                                                              Limas
 
 
 
@@ -594,6 +808,8 @@
 
 
 
+                                         Gambar 2 Ruang Tamu
+            Tuliskan bangun ruang apa saja yang dapat kamu lihat dari gambar diatas !
 
 
 
@@ -609,7 +825,6 @@
 
 
 
-                                                                                            Kubus]]></page><page Index="10"><![CDATA[Macam - Macam Bangun Ruang
 
 
 
@@ -620,16 +835,17 @@
 
 
 
-                                                                 Balok
 
 
 
+                                                                                              2]]></page><page Index="15"><![CDATA[Game Tarik Garis
 
 
 
 
 
 
+                                                                                 Prisma
 
 
 
@@ -637,7 +853,6 @@
 
 
 
-                                                                 Kubus
 
 
 
@@ -649,6 +864,7 @@
 
 
 
+                                                                                  Balok
 
 
 
@@ -661,13 +877,13 @@
 
 
 
+                                                                                 Limas
 
 
 
 
 
 
-                                                             Limas
 
 
 
@@ -683,6 +899,7 @@
 
 
 
+                                                                                Kubus
 
 
 
@@ -690,57 +907,53 @@
 
 
 
-                                                           Prisma]]></page><page Index="11"><![CDATA[Penerapan Bangun Ruang dalam
 
 
 
-                                                   Kehidupan
 
 
 
+                                                                                              3]]></page><page Index="16"><![CDATA[Macam - Macam Bangun Ruang
 
 
-        Sebutkan  bangun  -  bangun  ruang  yang  ada  di
 
 
 
-        sekitar kita]]></page><page Index="12"><![CDATA[Kita telah mengetahui bangun - bangun apa
 
 
-                saja  yang  akan  kita  pelajari,  sekarang
 
 
 
-                mari  kita  pahami  apa  saja  unsur  unsur
+                                                                              Kubus
 
 
-                pembangun  dari  masing  -  masing  bangun
 
 
-                ruang
 
 
+                           Gambar 3 Mainan Kubus
 
 
 
 
-         Jaring - Jaring
 
 
+                               Balok
 
 
 
-               Balok
 
 
 
 
+                                                                    Gambar 4 Mainan Balok
 
 
 
 
 
 
+                                                                       Limas
 
 
 
@@ -750,29 +963,29 @@
 
 
 
+                             Gambar 5 Pyramid
 
 
 
 
 
+                                     Prisma
 
 
-              Balok  adalah  gabungan  dari  bangun  datar
 
-              persegi panjang, maka
 
 
 
-              ABFE = DCGH
 
 
+                                                                Gambar 6 Atap Rumah
 
-              BCGF = ADHE
 
 
-              ABCD = EFGH]]></page><page Index="13"><![CDATA[]]></page><page Index="14"><![CDATA[]]></page><page Index="15"><![CDATA[Kubus
+                                                                                              4]]></page><page Index="17"><![CDATA[Penerapan Bangun Ruang dalam
 
 
+                                          Kehidupan
 
 
 
@@ -780,6 +993,7 @@
 
 
 
+         Sebutkan bangun - bangun ruang yang ada di sekitar kita
 
 
 
@@ -807,10 +1021,8 @@
 
 
 
-              Kubus  adalah  gabungan  dari  bangun  datar
 
 
-              persegi, maka semua sisinya sama]]></page><page Index="16"><![CDATA[]]></page><page Index="17"><![CDATA[]]></page><page Index="18"><![CDATA[Limas
 
 
 
@@ -845,38 +1057,65 @@
 
 
 
+                                                                                              5]]></page><page Index="18"><![CDATA[KUBUS
 
 
-              Limas  adalah  gabungan  dari  bangun  datar
 
 
 
-              segitiga  dengan  alas  yang  berbeda  -  beda
+                        Kubus  adalah  bangun  ruang  sisi  datar  yang  semua  sisinya
+                      berbentuk persegi dan semua rusuknya sama panjang.
 
 
-              seperti  layang  -  layang,  segitiga,  persegi,
 
 
-              persegi panjang, trapesium, jajar genjang,
 
 
-              dan lain - lain]]></page><page Index="19"><![CDATA[]]></page><page Index="20"><![CDATA[Prisma
 
+         Ciri - Ciri
 
 
+                                                   Memiliki  8  buah  titik  sudut,  yaitu  titik
+                      H
+                                         G         A, B, C, D, E, F, G, dan H
 
+                                                   Memiliki  6  buah  sisi  berbentuk  persegi
+           E
+                               F                   yang kongruen, yaitu sisi ABCD, EFGH,
+                                                   ABFE, DCGH, BCGF, dan ADHE
 
+                                                   Memiliki 12 buah rusuk, yaitu AB, BC,
+                                                   CD,  DA,  EF,  FG,  GH,  HE,  AE,  BF,
+                     D
+                                         C         CG, dan DH
+                                                   Semua sudutnya 90
+           A                  B
+           Gambar 7 Kubus ABCD.EFGH
+                  H                          H
+                                 G                         G
 
+         E                          E
+                         F                          F
 
 
 
+                 D                          D
+                                 C                         C
 
+          A             B           A              B
+         Gambar 8 Diagonal Sisi     Gambar 9 Diagonal Ruang       Gambar 10 Bidang Diagonal
 
+        Memiliki    12    buah       Memiliki  4  buah         Memiliki  6  buah  bidang
+        diagonal sisi, yaitu AF,     diagonal      ruang,      diagonal,     yaitu    BCHE,
+        BE, BG, CF, CH, DG,          yaitu  AG,  EC,  BH,      ACGE,      ABGH,       ADGF,
+        AH, DE, EG, FH, AC,          dan FD                    BDHF, dan EFCD
 
+        dan BD
 
 
 
 
+                                                                                              6]]></page><page Index="19"><![CDATA[Let’S Try
 
 
 
@@ -897,120 +1136,83 @@
 
 
 
-              Prisma adalah gabungan dari bangun datar
 
 
 
-              persegi panjang dengan alas yang berbeda
 
 
-              -  beda  seperti  layang  -  layang,  segitiga,
 
 
-              persegi, persegi panjang, trapesium, jajar
 
 
-              genjang, dan lain - lain]]></page><page Index="21"><![CDATA[]]></page><page Index="22"><![CDATA[]]></page><page Index="23"><![CDATA[Ciri - Ciri
+                                Gambar 11 Kubus PQRS.TUVW
 
 
 
-                                             KUBUS
-                                                                   Memiliki  8  buah  titik
-                                H
-                                                       G
-                                                                   sudut,  yaitu  titik  A,
 
 
-                 E                                                 B, C, D, E, F, G, dan H
-                                           F
 
+             Sebutkan 3 rusuknya
 
 
-                                                                   Memiliki  6  buah  sisi
+            Sisi kubus berbentuk
 
-                                                                   berbentuk
-                              D                                                                  persegi
-                                                       C
-                                                                   yang  kongruen,  yaitu
 
-                                                                   sisi         ABCD,              EFGH,
-                  A                      B
+            Sebutkan salah satu diagonal sisinya
 
 
-             Memiliki  12  buah  rusuk,                            ABFE,  DCGH,  BCGF,
+            Sebutkan 3 nama sudutnya
 
-             yaitu  AB,  BC,  CD,  DA,                             dan ADHE
 
 
-             EF, FG, GH, HE, AE, BF,                                                H                      G
+            Sebutkan 2 diagonal ruangnya
 
 
-             CG, dan DH
+            Sebutkan salah satu bidang diagonalnya
 
-                                                                     E
-                          H                    G                                               F
 
 
 
-             E
-                                    F
-                                                                                  D
-                                                                                                           C
 
 
-                         D
-                                               C                      A                      B
 
-                                                                     Memiliki             4         buah
-              A                   B
-          Memiliki  12  buah  diagonal                               diagonal                   ruang,
 
 
-          sisi,  yaitu  AF,  BE,  BG,                                yaitu  AG,  EC,  BH,
 
 
-          CF,  CH,  DG,  AH,  DE,  EG,                               dan FD
 
 
-          FH, AC, dan BD]]></page><page Index="24"><![CDATA[BALOK
 
 
-                                                                   Memiliki  8  buah  titik
+                                                                                              7]]></page><page Index="20"><![CDATA[Jaring - Jaring
 
 
-                                                                   sudut,  yaitu  titik  A,
 
 
-                                                                   B, C, D, E, F, G, dan H
 
 
 
 
-                                                                  Memiliki  6  buah  sisi
 
-                                                                  berbentuk                     persegi
 
 
 
-                                                                  panjang,  yaitu  sisi
 
 
-             Memiliki  12  buah  rusuk,                           ABCD,  EFGH,  ABFE,
 
 
-             yaitu  AB,  BC,  CD,  DA,                            DCGH,              BCGF,              dan
 
 
-             EF, FG, GH, HE, AE, BF,                              ADHE
 
 
-             CG, dan DH
 
 
 
+                                            Gambar 12 Kubus
 
 
 
+           Kubus adalah gabungan dari bangun datar persegi, maka semua sisinya sama
 
 
 
@@ -1033,70 +1235,58 @@
 
 
 
-          Memiliki  12  buah  diagonal                              Memiliki               4          buah
 
 
-          sisi,  yaitu  AF,  BE,  BG,                               diagonal ruang, yaitu
 
 
-          CF,  CH,  DG,  AH,  DE,  EG,                              AG, EC, BH, dan FD
 
+                                   Ditemukan  pada  tahun  1974  dengan  nama  Magic
 
-          FH, AC, dan BD]]></page><page Index="25"><![CDATA[PRISMA segi - N
+                                   Cube ! Diciptakan oleh Erno Rubic.
+                                       Rekor  penyelesaian  rubik  tercepat  adalah  3,13
+                                       detik oleh Max Park, pria pengidap autisme yang
 
-                                                                   Mempunyai                             sisi
+                                       pada awalnya diberikan rubik sebagai alat untuk
+                                       terapi.
+              Gambar 13 Rubik
 
 
 
-                                                                   sebanyak N+2
 
+                                                                                              8]]></page><page Index="21"><![CDATA[Let’S Try
 
 
-                                                                   Memiliki  titik  sudut
 
 
-                                                                   sebanyak 2n
 
 
-                                                                  Memiliki                           rusuk
 
 
 
-                                                                  sebanyak 3n
 
 
 
-                                                                 Memiliki  diagonal  sisi
 
 
-                                                                 sebanyak 2n
 
 
 
-                                                                 Memiliki diagonal ruang
 
 
-                                                                 sebanyak n(n+3)]]></page><page Index="26"><![CDATA[LIMAS segi - N
 
-                                                                   Memiliki            (n+1)           titik
 
 
 
-                                                                   sudut
 
 
 
-                                                                   Memiliki (n+1)sisi
 
 
 
-                                                                  Memiliki (2n) rusuk
 
 
 
-                                                                  Memiliki  (n)  sisi  tegak
 
-                                                                  berupa segitiga]]></page><page Index="27"><![CDATA[Catatan Kilas Balik !
 
 
 
@@ -1106,296 +1296,1453 @@
 
 
 
-                    Rumus Luas :
 
 
 
 
 
-                 L       = p x l
 
 
 
-                 L       = s x s
 
 
+                                     Gambar 14 Jaring - Jaring Kubus
+                           Manakah yang merupakan jaring jaring kubus ?
 
-                 L       = a x t
 
 
 
 
-                 L       = a x t
 
 
 
-                                2
 
 
-                 L       = d1 x d2
 
 
 
 
-                                  2
+                                                                                              9]]></page><page Index="22"><![CDATA[Luas Permukaan
 
 
 
 
-                 L       = s1 + s2  x t
+          Jadi sebenarnya apa sih luas permukaan itu ?
+          Konsep  luas  permukaan  hampir  mirip  dengan  konsep  keliling  pada  materi
+          bangun datar.
+          Masih  ingatkah  kamu  apa  itu  keliling  ?  Keliling  adalah  jumlah  panjang  rusuk
+          dari  sebuah  bangun  datar  sedangkan  luas  permukaan  adalah  jumlah  luas  dari
+          setiap sisi sisi bangun ruang tersebut
+          Mari kita bahas lebih lanjut.
 
 
-                                 2]]></page><page Index="28"><![CDATA[Luas Permukaan
 
 
 
 
 
 
-            Jadi sebenarnya apa sih luas permukaan itu ?
 
 
-            Konsep  luas  permukaan  hampir  mirip  dengan
+                                                   Berapakah keliling bangun berikut ?
 
 
-            konsep keliling pada materi bangun datar.
 
-            Masih  ingatkah  kamu  apa  itu  keliling  ?  Keliling
 
 
-            adalah jumlah panjang rusuk dari sebuah bangun
 
 
-            datar  sedangkan  luas  permukaan  adalah  jumlah
 
 
-            luas dari setiap sisi sisi bangun ruang tersebut
 
+                     Gambar 15 Persegi
+                    1        2          3               Berdasarkan gambar berikut !
 
-            Mari kita bahas lebih lanjut.
 
 
+                                                         Maka  keliling  bangun  ini
+         12                                      4
+                                                         adalah 12.
+                                                         Lebih mudahnya
+                                                          3 + 3 + 3 + 3 = 12.
+        11                                       5       Konsep  ini  dapat  dipakai
 
 
+                                                         untuk     menentukan       Luas
+                                                         Permukaan
+                                                 6
+         10
 
 
 
+                    9         8          7
 
+                  Gambar 16 Keliling Persegi
 
 
+                                                                                             10]]></page><page Index="23"><![CDATA[Let’S Try
 
 
 
 
 
+          Hanin  akan  memberikan  kotak  hadiah  ulang  tahun  untuk  adiknya.  Kotak
+          hadiah  itu  berbentuk  kubus  dengan  tinggi  20  cm.  Jika  hadiah  itu  akan
+          dibungkus kertas kado, berapa luas kartas kado paling sedikit yang diperlukan?
 
 
 
+                        3
+                                            20
 
 
 
+              1         2         4          6      20       Hitunglah  semua  luas  persegi
+                                                             berikut  !  dan  simpulkanlah
+                                                             rumus luas permukaan kubus !
+                                  5
 
 
 
 
+               Gambar 17 Jaring - Jaring Kubus (1)
 
 
 
+           LP = L1 + L2 + L3 + L4 + L5 + L6
+           LP = (.... x....) + (.... x ....) + (.... x....) + (.... x....) + (.... x ....) + (.... x....)
+           LP = 6 x (.... x .... )
+           note : masukkan angka
+           LP = 6 x (.... x .... )
+           LP =........
 
 
 
 
 
 
+                                               Rumus Luas Permukan Kubus :
 
 
 
 
 
-             Berapakah keliling bangun berikut ?]]></page><page Index="29"><![CDATA[1              2              3
 
 
-                                                                           Maka                     keliling
 
 
 
-        12                                                          4 bangun  ini  adalah
 
-                                                                           12. Lebih mudahnya
 
 
 
-                                                                           3 + 3 + 3 + 3 = 12.
-       11                                                           5
-                                                                           Konsep  ini  dapat
+             Gambar 18 Hadiah
+                                                                                             11]]></page><page Index="24"><![CDATA[Kubus memiliki jaring - jaring salah satunya seperti ini
 
-                                                                           dipakai                    untuk
 
 
-                                                                    6      menentukan  Luas
-        10
 
-                                                                           Permukaan
 
 
 
-                        9               8               7
 
 
 
-          Kubus
 
 
-            Kubus  memiliki  jaring  -  jaring  salah  satunya
 
 
-            seperti ini]]></page><page Index="30"><![CDATA[Jika  kita  perhatikan  kubus  memiliki  6  sisi  yang
 
 
-             sama  besar,  maka  luas  permukaan  kubus  dapat
+               Gambar 19 Jaring - Jaring Kubus (2)
 
+           Jika  kita  perhatikan  kubus  memiliki  6  sisi  yang  sama  besar,  maka  luas
+           permukaan kubus dapat kita simpulkan 6 x luas persegi
 
-             kita simpulkan 6 x luas persegi
+           Luas Permukaan = 6 x luas persegi
+           Luas Permukaan = 6 x ( s x s )
+           Luas Permukaan = 6 x s   2
 
 
+           Kita  juga  bisa  menggunakan  konsep  keliling  pada  luas  permukaan  yaitu
+           menjumlahkan semua luas sisinya
 
+                      H                 G                H           G
 
-            Luas Permukaan = 6 x luas persegi
 
 
-            Luas Permukaan = 6 x ( s x s )
+          E                                      H       D           C        G        H
+                               F
 
 
-            Luas Permukaan = 6 x s                         2
 
 
 
+                     D                           E       A           B        F        E
+                                        C
 
-           Kita  juga  bisa  menggunakan  konsep  keliling  pada
 
+           A                 B                           E           F
+              Gambar 20 Kubus (1)                    Gambar 21 Jaring - Jaring Kubus (3)
 
-           luas  permukaan  yaitu  menjumlahkan  semua  luas
 
+           Luas  Permukaan  =  L.ABCD  +  L.BCGF  +  L.ADHE  +  L.ABFE  +  L.DCGH  +
+           L.EFGH
+           Luas Permukan = (s x s) + (s x s) + (s x s) + (s x s) + (s x s) + (s x s)
+           Luas Permukaan = 6 x ( s x s )
+           Luas Permukaan = 6 x s   2
 
-           sisinya
 
-                                                                    H              G
-                           H                      G
 
 
+                                                                                             12]]></page><page Index="25"><![CDATA[Volume
 
-                                                           H        D              C         G          H
-            E
-                                      F
 
 
+          Setelah kita memahami konsep luas permukaan. Sekarang kita akan memahami
+          konsep volume. Apa itu volume ? Volume adalah isi yang dapat ditampung dari
+          suatu bangun.
 
+          Konsep volume hampir sama dengan konsep luas pada materi bangun datar.
+          Mari kita perhatikan !
 
 
 
-                                                           E        A              B         F          E
-                         D
+
+
+
+
+
+
+
+
+                                                   Berapakah luas dari bangun tersebut ?
+
+
+
+
+
+
+
+
+
+                     Gambar 22 Persegi (1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Gambar 23 Persegi (2)
+
+           Berdasarkan gambar, kita dapat melihat bahwa luasnya adalah 9 .
+           Cara yang lebih mudah adalah mengalikan panjang dan lebar.
+           Panjang memiliki 3 kotak dan lebar memiliki 3 kotak, maka 3 x 3 = 9.
+           Konsep volume juga sama seperti mencari luas bangun datar
+
+
+
+
+                                                                                             13]]></page><page Index="26"><![CDATA[Let’S Try
+
+
+
+       Diaz akan mengemas kubus kecil berukuran 1 cm ke dalam kubus besar berukuran 5
+       cm. Hitunglah :
+       a. berapa banyak kubus pada baris pertama ? gambar 24
+       b. berapa banyak kubus yang diperlukan hingga kubus besar terisi penuh ? gambar
+       25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Gambar 24                              Gambar 25
+
+
+
+
+
+
+             a.
+
+
+
+
+
+
+
+
+             b.
+
+
+
+
+
+
+
+
+
+           Simpulkanlah rumus volume kubus
+
+            Rumus Volume Kubus :
+
+
+
+
+
+
+                                                                                             14]]></page><page Index="27"><![CDATA[3
+                                                        2
+                                                   1         6
+
+                                                  4     5    9
+
+                                                       8
+                                                   7
+
+
+
+
+                                       Gambar 26 Magic Cube
+
+
+
+         Jika  kita  perhatikan  ada  3  lapisan  bangun  persegi.  lapisan  1,  2,  3  memiliki
+         panjang 3 kotak dan lebar 3 kotak. Maka satu lapisan memiliki luas 9.
+
+         Karena lapisan ada 3 maka 9 + 9 + 9 = 27
+         Maka satu rubik tersebut mengandung 27 kotak
+
+         Sehingga dapat kita simpulkan bahwa
+         Volume = s x s x s
+         Volume = s  3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             15]]></page><page Index="28"><![CDATA[BALOK
+
+
+
+
+                    Balok  adalah  bangun  ruang  yang  memiliki  tiga  pasang  sisi
+                    berhadapan  yang  sama  bentuk  dan  ukurannya,  di  mana  setiap
+                    sisinya berbentuk persegi panjang.
+
+
+
+
+
+
+       Ciri - Ciri
+
+
+
+
+
+                                                   Memiliki 8 buah titik sudut, yaitu titik A,
+                                                   B, C, D, E, F, G, dan H
+
+                                                  Memiliki  6  buah  sisi  berbentuk  persegi
+                                                  panjang,  yaitu  sisi  ABCD,  EFGH,
+                                                  ABFE, DCGH, BCGF, dan ADHE
+
+                                                  Memiliki 4 rusuk panjang, yaitu AB,
+
+                                                  CD, EF,GH
+
+                                                   Memiliki  4  rusuk  lebar,  yaitu  BC,
+         Gambar 27  Balok ABCD.EFGH
+                                                   FG, AD,EH
+
+                                                   Memiliki  4  rusuk  tinggi,  yaitu  BF,
+                                                   CG, AE,DH
+
+                                                   Semua sudutnya 90
+
+                                                   Memiliki  12  buah  rusuk,  yaitu  AB,
+                                                   BC,  CD,  DA,  EF,  FG,  GH,  HE,
+                                                   AE, BF, CG, dan DH
+
+
+                                                  Memiliki     3   pasang    sisi   yang
+                                                  bersebrangan  dengan  bentuk  dan
+                                                  ukuran sama
+
+
+
+
+
+
+
+
+                                                                                             16]]></page><page Index="29"><![CDATA[Memiliki  12  buah  diagonal  sisi,  yaitu
+                                                    AF,  BE,  BG,  CF,  CH,  DG,  AH,  DE,
+                                                    EG, FH, AC, dan BD
+
+
+
+
+
+
+              Gambar 28  Diagonal Sisi (1)
+
+
+
+
+
+
+
+
+
+
+                                                    Memiliki  4  buah  diagonal  ruang,  yaitu
+                                                    AG, EC, BH, dan FD
+
+
+
+
+
+
+
+
+
+           Gambar 29  Diagonal Ruang (1)
+
+
+
+
+
+
+
+
+                                                             Memiliki  6  bidang  diagonal,
+                                                             yaitu  BDHF,  ACGE,  ADGF,
+                                                             BCHE, ABGH, dan EFCD
+
+
+
+
+             Gambar 30  Bidang Diagonal (1)
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             17]]></page><page Index="30"><![CDATA[Let’S Try
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   Gambar 31 Balok KLMN.OPQR
+
+
+
+
+            Sebutkan salah satu rusuk panjangnya
+
+
+           Sisi balok berbentuk
+
+
+           Sebutkan salah satu diagonal sisinya
+
+
+           Sebutkan 3 nama sudutnya
+
+
+           Sebutkan 2 diagonal ruangnya
+
+
+           Sebutkan salah satu bidang diagonalnya
+
+
+
+           Sebutkan salah satu rusuk lebarnya
+
+
+           Sebutkan salah satu rusuk tingginya
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             18]]></page><page Index="31"><![CDATA[Jaring - Jaring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   Gambar 32 Balok ABCD.EFGH (1)
+
+
+
+
+           Balok adalah gabungan dari bangun datar persegi panjang, maka
+
+           ABFE = DCGH
+           BCGF = ADHE
+           ABCD = EFGH
+
+
+
+
+           Let’S Try
+
+
+
+
+
+                                Buatlah kelompok beranggotakan  3 - 4 Siswa
+
+
+
+                 Cobalah membuat jaring - jaring Balok menggunakan fitur - fitur yang ada
+                                    Kemudian isilah laporan di bawah ini !
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             19]]></page><page Index="32"><![CDATA[Tabel 1 Laporan Jaring - Jaring Balok
+
+                                                          Bentuk
+                 Nomor
+                                                       Jaring - Jaring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Contoh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Gambar 33 Jaring - Jaring Balok         Gambar 34 Jaring - Jaring Balok (1)
+
+                                                                                             20]]></page><page Index="33"><![CDATA[Let’S Try
+
+
+
+
+         Ibu akan memberi hadiah ulang tahun kepada Budi. Sebelum memberikan kado
+         tersebut,  Ibu  melapisi  kotak  yang  berisi  sepatu  dengan  kertas  kado.  Kotak
+         sepatu memiliki ukuran panjang 25 cm, lebar 15 cm dan tinggi 10 cm. Berapa
+         luas kertas kado paling sedikit yang Ibu perlukan?
+
+         Jika kamu perhatikan luas 1 dan 3 adalah sama, luas 2 dan 4 juga sama, luas 5
+         dan 6 juga sama. maka dapat kita kelompokkan menjadi
+
+
+
+                      25 cm
+
+                         1
+
+
+                         2
+              5                        6   15 cm           Simpulkanlah  rumus  luas
+
+                                                           permukaan balok !
+                         3           10 cm
+
+
+
+                         4
+
+
+
+          Gambar 35 Jaring - Jaring Balok (2)
+
+          LP = 2 x L1 + 2 x L2 + 2 x L5
+          LP = ( 2 x ..... x ...... ) + ( 2 x ..... x ...... ) + ( 2 x ..... x ...... )
+          LP = 2 x ( ... x ..... + ..... x..... + .... x .....)
+          Note : Masukkan angka
+          LP = 2 x ( ... x ..... + ..... x..... + .... x .....)
+          LP = 2 x .....
+          LP = .....
+
+
+
+
+          Rumus Luas Permukaan Balok :
+
+
+
+
+
+
+
+                                                                   Gambar 36 Kotak Sepatu
+                                                                                             21]]></page><page Index="34"><![CDATA[Luas Permukaan
+
+
+
+
+
+           Balok memiliki jaring - jaring salah satunya seperti ini
+
+                                                           H                     G
+
+
+
+                                                   H       D                     C       G
+
+
+
+
+                                                   E       A                     B       F
+
+
+
+                                                           E                     F
+           Gambar 37 Balok ABCD.EFGH
+
+                                                           H                     G
+                                                      Gambar 38 Jaring - Jaring Balok (3)
+
+         Jika kita perhatikan balok memiliki 3 pasang sisi yang sama besar
+
+         Luas Permukaan = L.ABCD + L. ABFE + L.EHGF + L.DCGH + L.ADHE +
+         L.BFGC
+         Karena L.ABCD = L.EHGF, L.BFGC = L.ADHE dan L.ABFE = L.DCGH
+         Luas  Permukaan  =  L.ABCD  +  L.ABCD+  L.BFGC  +  L.BFGC  +  L.ABFE  +
+         L.ABFE
+         Luas Permukaan = 2 L.ABCD + 2 L.BFGC + 2 L.ABFE
+         Luas Permukaan = 2 ( L.ABCD + L.BFGC + L.ABFE )
+         Luas Permukaan = 2 ( ( p x l ) + ( l x t ) + ( p x t ) )
+
+
+                                        T
+                                P
+
+               T                        L          T
+                                P
+                     L                        L
+                                         T
+                                P
+
+                                         L
+                                 P
+
+                  Gambar 39 Jaring - Jaring Balok (4)
+                                                                                             22]]></page><page Index="35"><![CDATA[Let’S Try
+
+
+
+         Vivi akan menyusun kubus - kubus kecil berukuran 1 cm menjadi balok seperti
+         gambar berikut. Hitunglah berapa banyak balok yang diperlukan ?
+
+
+
+
+
+
+
+
+
+
+
+                                                                                   3 cm
+
+
+
+
+
+
+
+
+
+
+
+                                       Gambar 40 Susunan Balok
+
+
+
+
+
+
+
+
+
+
+
+
+            Simpulkanlah Rumus Volume Balok :
+
+
+
+
+
+
+
+
+
+          Kemudian hitunglah menggunakan rumus
+           p x l x t
+          Apakah hasil yang didapat sama atau berbeda ?
+
+
+           V = p x l x t
+           V = ..... x..... x....
+           V = ........
+
+
+
+                                                                                             23]]></page><page Index="36"><![CDATA[Volume
+
+
+
+
+          Begitu  juga  dengan  balok  yang  membedakan  hanyalah  setiap  sisinya  berbeda
+          maka dinamakanlah panjang, lebar, juga tinggi.
+
+
+
+
+
+
+
+
+
+                                                             2   3
+                                                        1         6
+
+                                                         4   5
+                                                                 9
+                                                             8
+                                                        7
+
+                                                        10  11   12
+
+                                          Gambar 41 Balok
+
+
+
+
+          Jika kita perhatikan ada 5 lapisan bangun persegi panjang. lapisan 1, 2, 3, 4, 5
+          memiliki panjang yang sama yaitu 3 kotak dan lebar 4 kotak. Maka satu lapisan
+          memiliki luas 12.
+          Karena lapisan ada 5 maka 12 + 12 + 12 + 12 + 12 = 60
+          Maka satu bangunan tersebut mengandung 60 kotak
+
+          Sehingga dapat kita simpulkan bahwa
+          Volume = p x l x t
+          Volume = 3 x 4 x 5 = 60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             24]]></page><page Index="37"><![CDATA[PRISMA segi - N
+
+
+
+
+
+                                                      Prisma adalah bangun ruang tiga
+                                                      dimensi yang memiliki bentuk alas
+                                                      dan  tutup  yang  kongruen  serta
+                                                      sejajar. Alas prisma dapat berupa
+                                                      berbagai  bentuk  bangun  datar,
+                                                      seperti  persegi,  persegi  panjang,
+                                                      jajar   genjang,    segitiga,   dan
+                                                      sebagainya.
+                  Gambar 42 Prisma Segi - 6
+
+
+
+        Ciri - Ciri
+
+
+
+
+
+            Memiliki alas dan atap yang sama
+
+            Memiliki selimut / sisi samping berbentuk
+            persegi panjang
+            Memiliki titik sudut sebanyak 2n
+
+            Memiliki rusuk sebanyak 3n
+
+            Mempunyai sisi sebanyak N+2
+
+            Memiliki diagonal sisi sebanyak 2n
+
+
+            Memiliki     diagonal    ruang    sebanyak
+            n(n+3)                                              Gambar 43 Prisma Segi - 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Gambar 44 Prisma Segi - 3
+                                     Gambar 45 Prisma Segi - 4  Gambar 46 Prisma Trapesium
+                                                                                             25]]></page><page Index="38"><![CDATA[Let’S Try
+
+
+
+
+
+                                              Sebutkan salah satu nama alasnya
+
+
+
+                                             Alas prisma berbentuk
+
+
+                                             Prisma memiliki berapa sisi
+
+
+                                             Prisma memiliki berapa titik sudut
+
+
+                                             Prisma memiliki berapa rusuk
+
+
+              Gambar 47 Prisma ABC.DEF       Sebutkan salah satu diagonal sisinya
+
+
+
+
+
+
+
+                                              Sebutkan salah satu nama alasnya
+
+
+                                             Alas prisma berbentuk
+
+
+                                             Prisma memiliki berapa sisi
+
+
+                                             Prisma memiliki berapa titik sudut
+
+          Gambar 48 Prisma ABCD.EFGH
+                                             Prisma memiliki berapa rusuk
+
+
+                                             Sebutkan salah satu diagonal sisinya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             26]]></page><page Index="39"><![CDATA[Jaring - Jaring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Gambar 49 Prisma Segitiga     Gambar 50 Prisma Persegi Panjang
+
+
+           Prisma adalah gabungan dari bangun datar persegi panjang dengan alas yang
+           berbeda  -  beda  seperti  layang  -  layang,  segitiga,  persegi,  persegi  panjang,
+           trapesium, jajar genjang, dan lain - lain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             27]]></page><page Index="40"><![CDATA[Isilah kotak di bwah ini ! Jaring - Jaring berikut ini merupakan prisma apa ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                Gambar 51 Jaring - Jaring Prisma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               Gambar 52 Jaring - Jaring Prisma (1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              Gambar 53 Jaring - Jaring Prisma (2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               Gambar 54 Jaring - Jaring Prisma (3)
+
+
+                                                                                             28]]></page><page Index="41"><![CDATA[Isilah kotak di bawah ini ! Bangunan mana yang merupakan Prisma ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     Gambar 55 Bangunan 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                Gambar 56 Bangunan 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Gambar 57 Bangunan 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Gambar 58 Bangunan 4
+                                                                                             29]]></page><page Index="42"><![CDATA[Let’S Try
+
+
+
+
+
+
+
+
+                                       Carilah  Rumus  Luas  Permukaan  Prisma  Segitiga
+                                       berikut ini !
+
+
+
+
+
+                                       Petunjuk :
+                                       L.ABC + L.DEF + L.ABED + L.BCFE + L.ACFD
+
+
+        Gambar 59 Prisma ABC.DEF
+
+           L.ABC  dan L.DEF = alas prisma / tutup prisma
+           L.ABED = AB x BE =AB x t
+
+           L.BCFE = BC x CF =BC x t
+           L.ACFD = AC x AD =AC x t
+
+
+
+            LP = L.ABC + L.DEF + L.ABED + L.BCFE + L.ACFD
+            LP = 2 x ......... + (........ x .........) + (....... x ........) + (........ x........)
+            LP = 2 x ......... + ( ....... + ........ + ........) x t
+            LP = 2 x ........... + ( .......................) x t
+
+
+
+
+           Rumus Luas Permukaan Prisma :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             30]]></page><page Index="43"><![CDATA[Luas Permukaan
+
+
+
+                                                      F
+
+
+                                         D                   E
+
+
+
+
+
+
                                                   C
 
 
-                                                                    E              F
-             A                      B
 
-             Luas Permukaan = L.ABCD + L.BCGF + L.ADHE + L.ABFE + L.DCGH + L.EFGH
+                                         A                   B
+                                       Gambar 60 Prisma ABC.DEF (1)
 
-             Luas Permukan = (s x s) + (s x s) + (s x s) + (s x s) + (s x s) + (s x s)
+             Prisma memiliki jaring - jaring salah satunya seperti ini
 
-             Luas Permukaan = 6 x ( s x s )
+                                                  F
 
 
-             Luas Permukaan = 6 x s                          2]]></page><page Index="31"><![CDATA[Balok
+                                       F      D        E      F
 
 
 
 
 
-            Balok  memiliki  jaring  -  jaring  salah  satunya
 
 
-            seperti ini                                                H                            G
 
 
+                                      C      A         B      C
 
 
+                                                 C
+                                     Gambar 61 Jaring - Jaring Prisma (4)
 
-                                                              H        D                            C          G
 
+         Jika kita perhatikan Prisma memiliki 2 bangun segitiga sama besar dan 3 persegi
+         panjang
 
 
+         Luas Permukaan = 2 x (luas segitiga ) + L. ABCD + L. ACFD + L. BCFE
+                                   1
+         Luas Permukaan = 2 x (     x a x t ) + L. ABCD + L. ACFD + L. BCFE
+                                   2
+         Maka dapat kita simpulkan
+         Luas Permukaan = 2 x Luas Alas + Luas Selimut
 
 
 
-                                                              E        A                            B          F
 
 
 
 
+                                                                                             31]]></page><page Index="44"><![CDATA[Let’S Try
 
-                                                                       E                            F
 
 
+         Sebuah prisma segitiga dengan alas segitiga sama sisi memiliki panjang sisi alas 10
+         cm dan tinggi segitiga 8 cm. Tinggi prisma tersebut adalah 15 cm. Hitunglah luas
+         permukaan dari prisma segitiga tersebut.
 
+         Bandingkan dengan memakai dua cara.
+         Yang  pertama  jumlahkan  semua  luas  sisinya  dan
+         Yang kedua menggunakan rumus yang diberikan
 
-                                                                       H                            G
 
-           Jika  kita  perhatikan  balok  memiliki  3  pasang  sisi
 
 
-           yang sama besar
 
 
 
 
-            Luas Permukaan = L.ABCD + L. ABFE + L.EHGF + L.DCGH + L.ADHE + L.BFGC
-            Karena L.ABCD = L.EHGF, L.BFGC = L.ADHE dan L.ABFE = L.DCGH
 
-            Luas Permukaan = L.ABCD + L.ABCD+ L.BFGC + L.BFGC + L.ABFE + L.ABFE
 
-            Luas Permukaan = 2 L.ABCD + 2 L.BFGC + 2 L.ABFE
 
-            Luas Permukaan = 2 ( L.ABCD + L.BFGC + L.ABFE )
 
-            Luas Permukaan = 2 ( ( p x l ) + ( l x t ) + ( p x t ) )
 
+                                                               Gambar 62 Jaring - Jaring Prisma (5)
 
 
 
-                                             T
-                                 P
+                                    Tabel 2 Perbandingan Luas Permukaan
 
+                           Cara 1                                    Cara 2
 
 
-         T                                   L             T
-                                 P
-                 L                                   L
 
-                                              T
-                                 P
+            L1 =
 
 
 
-                                              L
-                                  P]]></page><page Index="32"><![CDATA[Prisma
+                                                               LP = 2 x LA + LS
+            L2 =
 
 
 
+            L3 =
 
 
-            Prisma  memiliki  jaring  -  jaring  salah  satunya
 
 
-            seperti ini                                                    F
+            L4 =
 
-                             F
 
 
-                                                           F         D            E          F
-          D                             E
+            L5 =
 
 
 
@@ -1403,111 +2750,98 @@
 
 
 
+                                                                                             32]]></page><page Index="45"><![CDATA[Let’S Try
 
 
 
-                       C
+                                                                Perhatikan Kasus berikut !
 
-                                                          C         A              B         C
 
 
-           A                            B
-                                                                          C
-           Jika  kita  perhatikan  Prisma  memiliki  2  bangun
 
-           segitiga sama besar dan 3 persegi panjang
 
 
 
 
 
-            Luas Permukaan = 2 x (luas segitiga ) + L. ABCD +
 
-            L. ACFD + L. BCFE
 
-                                                             1
-            Luas Permukaan = 2 x (     x a x t ) + L. ABCD + L.
-                                                            2
-            ACFD + L. BCFE
 
 
-            Maka dapat kita simpulkan
 
 
-            Luas Permukaan = 2 x Luas Alas + Luas Selimut]]></page><page Index="33"><![CDATA[Limas
 
 
 
 
 
-            Prisma  memiliki  jaring  -  jaring  salah  satunya
+                        Gambar 63 Kasus 1
+         Gambar  tersebut  memperlihatkan  balok  ABCD.EFGH  yang  dibagi  dua  secara
+         melintang.Ternyata, hasil belahan balok tersebut membentuk prisma segitiga.
+         Dengan demikian,volume prisma segitiga adalah setengah kali volume balok.
 
 
-            seperti ini           E                                                   E
 
+           Cobalah Cari Rumus Volume Prisma berdasarkan Kasus diatas :
+                        1
+           V. Prisma =        V. Balok      Note : Tidak Berlaku di semua kasus
+                         2
 
+                        1
+           V. Prisma =       x (...... x ...... x ......)
+                        2
+                          1
+           V. Prisma = (       x ..... x .....) x t
+                          2
+           V. Prisma = ......... x t
 
 
 
 
 
-                                                                              D              C
 
 
 
-                                                                  E                                       E
 
 
 
-                                                                              A               B
-                       D
-                                                           C
 
 
-         A                                                                            E
-                                           B
 
-           Jika kita perhatikan limas memiliki alas berbentuk
 
 
-           bangun  persegi  /  persegi  panjang  dan  4  sisi
 
 
-           segitiga sama besar
 
 
-            Luas Permukaan = luas persegi + 4 luas segitiga
 
-                                                                             1
-            Luas Permukaan = (s x s) + ( 4 x    x a x t )
-                                                                             2
-            Maka dapat kita simpulkan
+                                                                                             33]]></page><page Index="46"><![CDATA[Volume
 
 
-            Luas Permukaan = Luas Alas + Luas Selimut]]></page><page Index="34"><![CDATA[Volume
 
+         Prisma juga memiliki prinsip yang sama yaitu luas alas x tinggi. Mengapa luas
+         alas  ?  karena  alas  prisma  bisa  berbeda  -  beda  seperti  persegi,  persegi  panjang,
+         trapesium, segitiga, layang - layang, belah ketupat, dan juga jajar genjang.
 
 
 
 
+         Jadi  konsep  volume  adalah  mengalikan  setiap  sisinya  dari  panjang,  lebar,  dan
+         juga  tinggi.  Namun  penamaanya  saja  yang  berbeda.  Contoh  dalam  bangun
+         segitiga penamaanya menjadi panjang menjadi alas.
 
-            Setelah  kita  memahami  konsep  luas  permukaan.
 
 
-            Sekarang kita akan memahami konsep volume. Apa
+         Sehingga dapat kita simpulkan bahwa
+         Volume = Luas alas x tinggi
 
 
-            itu  volume  ?  Volume  adalah  isi  yang  dapat
 
-            ditampung dari suatu bangun.
 
 
-            Konsep  volume  hampir  sama  dengan  konsep  luas
 
-            pada materi bangun datar.
 
 
-            Mari kita perhatikan !
 
 
 
@@ -1533,6 +2867,7 @@
 
 
 
+                                     Gambar 64 Macam - Macam Prisma
 
 
 
@@ -1546,181 +2881,161 @@
 
 
 
-           Berapakah luas dari bangun tersebut ?]]></page><page Index="35"><![CDATA[Maka luasnya adalah 9
 
+                                                                                             34]]></page><page Index="47"><![CDATA[LIMAS segi - N
 
 
-            Cara yang lebih mudah adalah mengalikan panjang
 
 
-            dengan lebar
 
+         Ciri - Ciri
 
-            panjang ada 3 kotak dan lebar ada 3 kotak maka
 
-            3 x 3 = 9
 
 
-            konsep volume juga sama]]></page><page Index="36"><![CDATA[Kubus
+                                                      Memiliki (n+1) titik sudut
 
+                                                      Memiliki  (n+1)  sisi,  sisi  tergantung
+                                                      alasnya
+                                                     Alas dapat berbentuk persegi, persegi
+                                                     panjang,  segitiga,  jajar  genjang,
+                                                     trapesium, layang - layang, dan belah
 
+                                                     ketupat
+                                                     Selimut berbentuk segitiga
 
+                                                     Memiliki (2n) rusuk
 
+                                                     Memiliki  (n)  sisi  tegak  berupa
+           Gambar 65 Limas Segi - 4                  segitiga
 
 
 
+                Limas  adalah  bangun  ruang  tiga  dimensi  yang  dibatasi  oleh  alas
+                berbentuk segi-n dan sisi-sisi tegak berbentuk segitiga
 
 
 
 
 
-                                               3
-                                        2
-                                  1           6
 
 
-                                  4     5      9
 
-                                        8
-                                  7
 
 
 
 
-           Jika  kita  perhatikan  ada  3  lapisan  bangun
 
 
-           persegi. lapisan 1, 2,3 sama sama memiliki panjang
 
 
-           3  kotak  dan  lebar  3  kotak.  Maka  satu  lapisan
 
 
-           memiliki luas 9. Karena lapisan ada 3 maka 9 + 9 +
 
 
-           9 = 27
 
-           maka satu rubik tersebut mengandung 27 kotak
 
 
 
+           Gambar 66 Limas Segi - 3   Gambar 67 Limas Segi - 5     Gambar 68 Limas Segi - 6
 
-            Sehingga dapat kita simpulkan bahwa
 
 
-            Volume = s x s x s
 
 
-            Volume = s           3]]></page><page Index="37"><![CDATA[Balok
 
 
+                                                                                             35]]></page><page Index="48"><![CDATA[Let’S Try
 
 
-           Begitu  juga  dengan  balok  yang  membedakan
 
-           hanyalah                 setiap              sisinya              berbeda                maka
 
 
-           dinamakanlah panjang, lebar, juga tinggi.
+                                              Sebutkan nama alasnya
 
 
 
+                                             Alas limas berbentuk
 
 
+                                             Limas memiliki berapa sisi
 
 
+                                             Limas memiliki berapa titik sudut
 
 
+                                             Limas memiliki berapa rusuk
 
 
+               Gambar 69 Limas D. ABC
 
-                                             2    3
-                                        1
-                                                   6
-                                        4    5
-                                                  9
-                                             8
-                                        7
 
 
-                                       10   11    12
 
 
 
 
-            Jika kita perhatikan ada 5 lapisan bangun persegi
+                                              Sebutkan nama alasnya
 
 
-            panjang. lapisan 1, 2, 3, 4, 5 sama sama memiliki
+                                             Alas limas berbentuk
 
-            panjang  3  kotak  dan  lebar  4  kotak.  Maka  satu
 
+                                             Limas memiliki berapa sisi
 
-            lapisan  memiliki  luas  12.  Karena  lapisan  ada  5
 
+                                             Limas memiliki berapa titik sudut
 
-            maka 12 + 12 + 12 + 12 + 12 = 60
 
+                                             Limas memiliki berapa rusuk
 
-            maka  satu  bangunan  tersebut  mengandung  60
 
 
-            kotak
+           Gambar 70 Limas E.ABCD
 
 
-            Sehingga dapat kita simpulkan bahwa
 
 
 
-            Volume = p x l x t
 
 
-            Volume = 3 x 4 x 5 = 60]]></page><page Index="38"><![CDATA[Prisma
 
 
 
 
 
-           Prisma juga memiliki prinsip yang sama yaitu luas
 
 
-           alas  x  tinggi.  Mengapa  luas  alas  ?  karena  alas
 
 
-           prisma  bisa  berbeda  -  beda  seperti  persegi,
 
+                                                                                             36]]></page><page Index="49"><![CDATA[Jaring - Jaring
 
-           persegi  panjang,  trapesium,  segitiga,  layang  -
 
 
-           layang, belah ketupat, dan juga jajar genjang.
 
 
 
-           Jadi  konsep  volume  adalah  mengalikan  setiap
 
 
-           sisinya  dari  panjang,  lebar,  dan  juga  tinggi.
 
-           Namun  penamaanya  saja  yang  berbeda.  Contoh
 
 
-           dalam  bangun  segitiga  penamaanya  menjadi
 
 
-           panjang menjadi alas.
 
 
-           Sehingga dapat kita simpulkan bahwa
 
 
 
-           Volume = Luas alas x tinggi]]></page><page Index="39"><![CDATA[Limas
 
 
 
+                         Gambar 71 Limas                    Gambar 72 Limas Segitiga
 
+           Limas adalah gabungan dari bangun datar segitiga dengan alas yang berbeda -
+           beda seperti layang - layang, segitiga, persegi, persegi panjang, trapesium, jajar
+           genjang, dan lain - lain
 
 
 
@@ -1746,6 +3061,7 @@
 
 
 
+           Dapatkah kamu menemukan jaring - jaring yang lain ?
 
 
 
@@ -1757,39 +3073,349 @@
 
 
 
-           Jika kita memperhatikan kita mendapatkan bahwa
 
 
-           prisma terisi penuh dengan 3 kali takar dari limas.
 
 
-           Dengan  kata  lain,  volume  prisma  sama  dengan  3
+          Gambar 73 Jaring - Jaring Limas  Gambar 74 Jaring - Jaring Limas (1)
 
-           kali volume limas.
+                                                                                             37]]></page><page Index="50"><![CDATA[Buatlah Jaring - Jaring limas sebanyak mungkin kemudian, buatlah alternatif
+           dari jaring - jaring yang kamu buat
 
 
+           Contoh
 
+
+
+
+
+
+
+
+
+                                 Alternatifnya
+
+
+
+
+
+
+
+       Gambar 75 Jaring - Jaring Limas (2)         Gambar 76 Jaring - Jaring Limas (3)
+
+
+
+                                   Tabel 3 Laporan Jaring - jaring Limas
+
+
+
+                                           Jaring - Jaring 1          Jaring - Jaring 2
+
+
+
+
+
+
+
+                     Segi - 3
+
+
+
+
+
+
+
+
+                     Segi - 4
+
+
+
+
+
+
+
+
+                     Segi - 5
+
+
+
+
+
+
+                                                                                             38]]></page><page Index="51"><![CDATA[Let’S Try
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             39]]></page><page Index="52"><![CDATA[Luas Permukaan
+
+
+
+
+                           E
+
+
+
+
+
+
+
+
+
+                    D
+                                         C
+
+             A
+                               B
+             Gambar 77 Limas E.ABCD
+
+             Limas memiliki jaring - jaring salah satunya seperti ini
+                              E
+
+
+
+
+
+                        D            C
+
+
+             E                                  E
+
+
+
+                        A            B
+
+
+
+
+
+                              E
+              Gambar 78 Jaring - Jaring Limas (4)
+
+         Jika  kita  perhatikan  limas  memiliki  alas  berbentuk  bangun  persegi  /  persegi
+         panjang dan 4 sisi segitiga sama besar
+
+
+         Luas Permukaan = luas persegi + 4 luas segitiga
+                                           1
+         Luas Permukaan = (s x s) + ( 4 x    x a x t )
+                                           2
+         Maka dapat kita simpulkan
+         Luas Permukaan = Luas Alas + Luas Selimut
+
+
+
+
+
+
+
+
+
+                                                                                             40]]></page><page Index="53"><![CDATA[Let’S Try
+
+
+
+                                                        Perhatikan kasus berikut !
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              1
+                                              tinggi limas =        sisi kubus
+                                                              2
+                                              atau
+
+                                              2 tinggi limas = sisi kubus
+                  Gambar 79 Kasus 2                               2t = s
+
+          Dari gambar dapat kita lihat bahwa 6 volume limas sama dengan volume kubus
+
+
+
+            Cobalah Cari Rumus Volume Limas berdasarkan kasus diatas :
+            6 V. Limas = V. Kubus            Note : Hanya berlaku di kasus tertentu
+            6 V. Limas = ..... x.... x....
+            V. Limas = ..... x .....x .....
+                                      ......
+
+            Ubahlah s menjadi tinggi limas (2t)
+            V. Limas = .... x.....x.....
+                                               Coret angka yang dapat dibagi
+                                        ........
+            V. Limas = ...... x..... x....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             41]]></page><page Index="54"><![CDATA[Volume
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Gambar 80 Gabungan Prisma dan Limas
+
+
+
+
+
+
+
+          Jika kita memperhatikan kita mendapatkan bahwa prisma terisi penuh dengan 3
+          kali  takar  dari  limas.  Dengan  kata  lain,  volume  prisma  sama  dengan  3  kali
+
+          volume limas.
 
 
            Volume prisma = 3 x Volume limas
-
-
-                                         1
+                            1
            Volume limas =     x Volume Prisma
-                                         3
+                            3
            Sehingga dapat kita simpulkan bahwa
-
-                               1
+                      1
            Volume =      x Luas alas x tinggi
-                               3]]></page><page Index="40"><![CDATA[Untuk  memahami  lebih  lanjut  tontonlah
-
-
-   video animasi berikut untuk memperdalam
-
-   pemahaman                     konsep               mengenai                 luas
+                      3
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             42]]></page><page Index="55"><![CDATA[Untuk  memahami  lebih  lanjut  tontonlah  video  animasi  berikut
+   untuk  memperdalam  pemahaman  konsep  mengenai  luas
    permukaan dan volume
 
 
@@ -1834,14 +3460,13 @@
 
 
 
-                                    Dengarkanlah                        lagu              ini          untuk
 
 
+                              Dengarkanlah  lagu  ini  untuk  mempermudah  mengingat  luas
+                              bangun datar dan volume
 
-                                    mempermudah  mengingat  luas  bangun
 
 
-                                    datar dan volume]]></page><page Index="41"><![CDATA[Cobalah ! Bacalah !]]></page><page Index="42"><![CDATA[Rangkuman
 
 
 
@@ -1860,21 +3485,19 @@
 
 
 
-         Lp        = 6 x s                      2
 
+                                                                                             43]]></page><page Index="56"><![CDATA[Cobalah mainkan game di bawah ini untuk menambah
+                                                  pengetahuanmu dan melatih kemampuanmu
 
 
 
-         Lp        = 2 x ( p x l + p x t + l x t)
 
 
 
-         Lp        = 2 x L. Alas + L. Selimut
 
 
 
 
-         Lp        = L. Alas + L. Selimut
 
 
 
@@ -1884,40 +3507,26 @@
 
 
 
-         V        = s              3
 
 
 
-         V        = p x l x t
 
 
 
 
-         V        = L. Alas x t
 
 
-                                   1
-         V        =         x L. Alas x t
 
-                                   3]]></page><page Index="43"><![CDATA[Buku  ini  berisi  materi  Bangun
 
 
-                                                Ruang.  Bangun  ruang  adalah
-                          MODUL BANGUN RUANG
-                                                bangun  yang  memiliki  volume.
 
-                                                Menggunakan                                pendekatan
 
 
-                                                Realistic Mathematics Education
 
 
-                                                membuat buku ini mudah dipahami
 
 
-                                                dan dekat dengan kehidupan kita
 
-                                                sehari - hari.
 
 
 
@@ -1925,18 +3534,238 @@
 
 
 
-                                                "Jika  orang  tidak  percaya
 
-                                                betapa                                sederhananya
 
 
 
-                                                matematika,  itu  karena  mereka
 
-                                                tidak                menyadari                      betapa
 
 
-                                                rumitnya hidup."
 
 
-                                                           - John von Neumann -]]></page></pages></Search>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             44]]></page><page Index="57"><![CDATA[Rangkuman
+
+
+
+
+
+                                             Tabel 4 Rangkuman
+
+
+
+                                Unsur - Unsur           Luas Permukaan            Volume
+
+
+
+
+
+                            6 sisi kongruen
+                            8 titik sudut
+                            12 rusuk                                  2                 3
+                                                            Lp = 6 x s             V= s
+                            12 diagonal sisi
+
+                            4 diagonal ruang
+                            6 bidang diagonal
+
+
+                            3 pasang sisi kongruen
+                            8 titik sudut
+                            12 rusuk                   Lp = 2 x (p x l + p
+                                                                                V = p x l x t
+                            12 diagonal sisi               x t + l x t )
+                            4 diagonal ruang
+                            6 bidang diagonal
+
+
+
+                            2 alas
+                            titik sudut = 2n
+                            sisi = n + 2
+                                                        Lp = 2 x La + Ls        V = La x t
+                            rusuk = 3n
+                            diagonal sisi = 2n
+
+
+
+
+
+
+                            sisi = n+1
+                                                                                   1
+                            titik sudut = n +1            Lp = La + Ls        V =      x La x t
+                                                                                   3
+                            rusuk = 2n
+
+
+
+
+
+                                                                                             45]]></page><page Index="58"><![CDATA[Latihan Soal
+
+           1.  Tersedia  kawat  dengan  panjang  3,5  m.  Jika  kawat  itu  akan  dibuat  kerangka
+             kubus dengan panjang rusuk 27,5 cm, maka panjang kawat yang tidak terpakai
+             adalah
+           2.  Model kerangka balok berukuran 12 cm x 9 cm x 7 cm akan dibuat sebanyak 5
+             buah. Jika biaya untuk membuat kerangka balok Rp 15.000 per meter, maka
+             biaya pembuatan seluruhnya adalah
+           3.  Sebuah  kotak  berbentuk  kubus  mempunyai  panjang  rusuk  15  cm.  Kotak
+                                                                                               2
+             tersebut akan dikemas dengan kertas warna. Jika harga kertas Rp 6.000 per m
+             , maka biaya minimal untuk mengemas kotak tersebut adalah
+           4.  Sebuah balok berukuran 20 cm x 18 cm x 15 cm akan dibuat dari kertas karton
+             berukuran  20  cm  x  31  cm.  Banyak  lembar  kertas  karton  yang  dibutuhkan
+             adalah
+           5.  Sebuah kontainer berukuran 5 m x 3 m x 2 m memuat 60 kardus. Jika kontainer
+             berukuran 4 m x 3 m x 2 m, maka banyak kardus yang dapat dimuat adalah
+           6.  Sebuah bak mandi berbentuk balok mempunyai ukuran panjang 60 cm, lebar
+             45  cm,  dan  tinggi  50  cm.  Bak  tersebut  akan  diisi  air  yang  berasal  dari  keran
+                                   3
+             dengan  debit  25  cm      per  detik.  Hitunglah  waktu  yang  dibutuhkan  untuk
+             mengisi bak sampai penuh
+           7.                           Model papan nama meja akan dibuat dari kertas
+                                       karton  seperti  gambar  di  samping.  dengan  alas
+             12 cm                     segitiga  5  cm  dan  tinggi  segitiga  12  cm.  Luas
+
+                                       karton  yang  diperlukan  untuk  membuat  4  buah
+               5 cm       30 cm        papan nama meja yang identik adalah
+               Gambar 81 Papan Nama
+         8.  Alas sebuah limas berbentuk belah ketupat mempunyai diagonal 12 cm dan 16
+
+         cm. Jika panjang rusuk tegaknya 13 cm, maka luas permukaan limas itu adalah
+
+         9.  Sebuah  bak  mandi  berbentuk  prisma  segitiga  dengan  alas  berukuran  5  dm,  12
+         dm, dan 13 dm, serta tinggi 1 m. Bak tersebut diisi air dari keran dengan debit 30
+         ml/detik. Waktu yang dibutuhkan untuk mengisi bak tersebut hingga penuh adalah
+
+
+         10. Sebuah limas mempunyai alas berbentuk jajar genjang berukuran panjang 15 cm
+                                                           2
+         dan tinggi 8 cm. Jika voulme limas adalah 600 cm   , maka tinggi limas adalah
+
+
+
+
+
+
+
+
+                                                                                             46]]></page><page Index="59"><![CDATA[Daftar Pustaka
+
+
+
+
+
+
+
+    As’ari,Abdur  Rahman.  dkk.2017.Matematika  SMP/MTs.
+    jakarta:Kementerian Pendidikan dan Kebudayaan
+
+
+    Kurniawan.  2013.  Matematika  SMP/MTsKelas  VIII
+    Jakarta: Penerbit Erlangga
+
+
+    Lumbantoruan,  J.  H.  (2021).  Buku  Materi  Pembelajaran
+    Matematika Kimia.
+
+
+    Purba,  S.  C.  (2022).  Buku  Materi  Pembelajaran
+    Matematika Kimia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              xii]]></page><page Index="60"><![CDATA[Buku  ini  berisi  materi  Bangun
+
+                                        Ruang.  Bangun  ruang  adalah
+                      MODUL BANGUN RUANG
+                                        bangun  yang  memiliki  volume.
+
+                                        Menggunakan                          pendekatan
+
+
+                                        Realistic Mathematics Education
+
+                                        membuat              buku          ini       mudah
+
+                                        dipahami  dan  dekat  dengan
+
+
+                                        kehidupan kita sehari - hari.
+
+
+
+
+                                        "Jika orang tidak percaya betapa
+
+                                        sederhananya  matematika,  itu
+
+
+                                        karena  mereka  tidak  menyadari
+
+                                        betapa rumitnya hidup."
+
+                                                   - John von Neumann -]]></page></pages></Search>
